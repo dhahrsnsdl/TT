@@ -9,7 +9,7 @@ import java.util.List;
 import java.util.Map;
 import db.DBClose;
 import db.DBOpen;
-
+//asdfasdf
 public class BbsDAO {
 	
 	public boolean checkRefnum(int bbsno) {
