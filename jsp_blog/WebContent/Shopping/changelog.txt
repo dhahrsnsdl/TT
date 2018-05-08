@@ -1,0 +1,75 @@
+**Changelog:**
+
+**Version 2.7.5:**
+
+- Updated Bootstrap to version 3.3.7 (both css and js file)
+- Updated font awesome icon to version 4.7.0 (font files and css file)
+
+**Version 2.7:**
+
+- Updated bootstrap to version 3.3.6.
+- Updated font awesome icons to version 4.6.1.
+
+**Version 2.6:**
+
+- Updated bootstrap css and js files from 3.3.4 to 3.3.50.
+- Updated jquery from 1.11.2 to 1.11.3.
+- Updated HTML5Shiv from 3.7.2 to 3.7.3.
+- Updated animate.css to latest version.
+- Updated revolution plugin to 4.6.4. Replaced jquery.themepunch.plugins.min.js file with jquery.themepunch.tools.min.js file. (index.html)
+
+**Version 2.5:**
+
+- Updated Bootstrap to version 3.3.2.
+- Updated jQuery to version 1.11.2.
+- Updated HTML5shiv to version 3.7.2.
+- Updated fonts folder to version 4.3.0.
+- Updated Font Awesome CSS to version 4.3.0.
+- Updated jQuery Plugin Navgoco to version 0.2.1.
+- Updated jQuery Plugin Countdown to version 2.0.2.
+- Added jquery.plugin.min.js for CountDown version 2.0.2.
+- Items page sidebar bug fix (style.css).
+- Countdown style update (style.css)
+- Coming soon page to top button fix (comingsoon.html).
+
+**Version 2.0:**
+
+- Updated Font awesome icon plugin.
+- Updated Bootstrap and jQuery.
+- Included minified version of font awesome icon css, bootstrap js and css to all html files. 
+- Removed Google web font code from HTML files and added to style.css.
+- Added charset meta utf-8 in all html files.
+- Bug fix from scroll to top. (custom.js)
+- Added a new page index-alt.html. (style.css)
+- Fix the layout for 'catchy' block content in all html files. (style.css)
+- Fix search input box and button to inline in aboutus page. (aboutus.html)
+- Updated navbar dropdown style. (style.css)
+- Client block updated from col-xs-6 to col-xs-12. (index.html, index-alt.html)
+- Item block cloumn updated from col-xs-6 to col-xs-12, col-sm-4 to col-sm-6. (index.html, index-alt.html, items.html)
+- Removed jQuery CaroFredSel plugin (Recent Posts or Whats new section) and added Bootstrap carousel. (all html files, style.css, custom.js)
+- Removed unsed codes from custom.js. 
+- Added documentation. 
+
+**Version 1.4:**
+
+- Catchy Block Subscribe from firefox fix. (style.css)
+- Whats new block Carousel Firefox fix. (style.css)
+
+**Version 1.3:**
+
+- Removed unused JS and CSS files from coming soon page (comingsoon.html).
+- Removed countdown JS code from custom.js file (custom.js).
+- Added countdown JS code in coming soon page (comingsoon.html).
+
+**Version 1.2:**
+
+- Carousel Bug Fix. (style.css)
+- Changed carousel images. 
+
+**Version 1.1:**
+
+- Carousel Bug Fix for Firefox. (index2.html & style.css)
+
+**Verion 1.0:**
+
+- Initial Release
